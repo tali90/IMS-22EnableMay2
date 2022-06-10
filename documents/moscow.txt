@@ -1,0 +1,32 @@
+MOSCOW
+
+MUST HAVE:
+-Add a customer to the system
+-View all customers in the system
+-Update a customer in the system
+-Delete a customer in the system.
+-Add an item to the system
+-View all items in the system
+-Update an item in the system
+-Delete an item in the system
+-Create an order in the system.
+-View all orders in the system.
+-Delete an order in the system
+-Add an item to an order.
+-Calculate a cost for an order.
+-Delete an item in an order
+
+SHOULD HAVE:
+-A name for each individual in the database
+-Orders tied to customers
+-Testing passing industry standereds
+-Cost for each individual item in database
+
+COULD HAVE:
+-Create new users
+-Store user names and passwords
+-Let customers edit their personal information
+
+WONT HAVE:
+-Installable application
+-Tutorial on how to use the app
