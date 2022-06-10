@@ -1,0 +1,6 @@
+20220610 13:24:21 INFO  [main] ims.IMS IMS.java28 - Welcome to the Inventory Management System!
+20220610 13:24:21 INFO  [main] ims.IMS IMS.java33 - Which entity would you like to use?
+20220610 13:24:21 INFO  [main] domain.Domain Domain.java27 - CUSTOMER: Information about customers
+20220610 13:24:21 INFO  [main] domain.Domain Domain.java27 - ITEM: Individual Items
+20220610 13:24:21 INFO  [main] domain.Domain Domain.java27 - ORDER: Purchases of items
+20220610 13:24:21 INFO  [main] domain.Domain Domain.java27 - STOP: To close the application
